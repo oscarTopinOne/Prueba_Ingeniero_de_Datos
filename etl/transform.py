@@ -12,7 +12,7 @@ def validate_schema(df):
     print(df.columns.tolist())
 
     if missing:
-        raise ValueError(f"❌ Columnas faltantes: {missing}")
+        raise ValueError(f"Columnas faltantes: {missing}")
     return True
 
 def clean_data(df):

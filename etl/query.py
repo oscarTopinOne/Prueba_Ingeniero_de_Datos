@@ -19,7 +19,7 @@ def run_clientes_rentables(con, output_path):
     result = con.execute(query).fetchdf()
     result.to_csv(f'{output_path}/clientes_rentables.csv', index=False)
 
-def create_enriched_view(con):
+def create_view(con):
     con.execute("""
     CREATE OR REPLACE VIEW vista_transacciones_enriquecidas AS
     SELECT
