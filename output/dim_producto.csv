@@ -1,0 +1,6 @@
+tipo_producto,categoria_producto,descripcion,id_producto
+Inversión,Inversión,Producto financiero tipo Inversión,1
+Cuenta de ahorros,Depósito,Producto financiero tipo Cuenta de ahorros,2
+Cuenta corriente,Depósito,Producto financiero tipo Cuenta corriente,3
+Tarjeta de crédito,Crédito,Producto financiero tipo Tarjeta de crédito,4
+Préstamo personal,Inversión,Producto financiero tipo Préstamo personal,5
