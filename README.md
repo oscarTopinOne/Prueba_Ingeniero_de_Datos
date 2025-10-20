@@ -1,2 +1,8 @@
-# Prueba_Ingeniero_de_Datos
-Este repositorio encontrarán la prueba de ingeniero de datos - Oscar Ivan Torres Pinto
+#Pipeline de Datos Bancarios – Proyecto Modular y Auditado - Oscar Torres Pinto
+##Descripción General
+Este proyecto implementa un pipeline de procesamiento de transacciones bancarias, diseñado para ser modular, escalable y auditado, con integración a herramientas de monitoreo, gobernanza y visualización. La solución cubre desde la ingesta de datos crudos hasta la exposición en dashboards BI, cumpliendo requisitos de calidad, trazabilidad y automatización.
+
+##Ejecución del Proyect
+- Clonar el repositorio
+- Instalar dependencias: pip install -r requirements.txt
+
