@@ -5,5 +5,5 @@ Este proyecto implementa un pipeline de procesamiento de transacciones bancarias
 ## Ejecución del Proyecto
 - Clonar el repositorio
 - Instalar dependencias: pip install -r requirements.txt
-- Ejecutar python main.py en la consola de Powershell
+- Ejecutar python main.py en la consola de Powershell ó .\run_pipeline.bat
 
